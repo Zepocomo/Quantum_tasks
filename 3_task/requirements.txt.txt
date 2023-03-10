@@ -1,0 +1,6 @@
+Target metric is RMSE. The main goal is to provide github repository that contains:
+●	jupyter notebook with analysis; 
+●	code for modeling (Python 3); 
+●	file with model predictions; 
+●	readme file;
+●	requirements.txt file.
