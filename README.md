@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## Quantum_tasks
-=======
 # Quantum_tasks
 ### [Task #1](https://github.com/Zepocomo/Quantum_tasks/tree/main/1_task "1_task")
 #### What is FOR loop?
